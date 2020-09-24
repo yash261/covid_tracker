@@ -1,6 +1,6 @@
 # covid_tracker
 
-A new Flutter application.
+A Flutter application to track Covid-19 data
 
 ## Getting Started
 
